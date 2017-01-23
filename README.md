@@ -5,8 +5,13 @@ Se pueden seguir las intrucciones del siguiente [enlace](http://www.androidcurso
 
 ## Capturas de la aplicación.
 Pantalla principal de la aplicación en vertical.
+
 <img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab2/Resources/Lab2_Resources001_1.png" width="300">
+
 Pantalla principal de la aplicación con el dispositivo en inglés.
+
 <img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab2/Resources/Lab2_Resources001_2.png" width="300">
+
 Pantalla principal de la aplicación en horizontal.
+
 <img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab2/Resources/Lab2_Resources001_3.png" width="600">
