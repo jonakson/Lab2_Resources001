@@ -15,3 +15,5 @@ Pantalla principal de la aplicación con el dispositivo en inglés.
 Pantalla principal de la aplicación en horizontal.
 
 <img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab2/Resources/Lab2_Resources001_3.png" width="600">
+
+<img src="http://i.giphy.com/3oz8xHvVH9cyZnwwlq.gif" width="600">
